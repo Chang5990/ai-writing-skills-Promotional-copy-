@@ -1,4 +1,7 @@
 ---
+name: article-matrix-generator
+description: Use this skill when the user wants to generate an article matrix for a project, product, technology, GitHub repository, or topic based strictly on provided materials, with citations and no fabrication.
+---
 
 # Article Matrix Generator Skill
 

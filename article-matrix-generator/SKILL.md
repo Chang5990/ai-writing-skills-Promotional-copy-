@@ -118,7 +118,7 @@ description: Use this skill when the user wants to generate a Chinese article ma
 
 避免“在当今 AI 快速发展的时代”“随着技术不断进步”这类空泛开头。优先从具体场景、结果、问题、截图、命令、文档、用户困境或工作流进入。
 
-可选入口：
+可选入口（作为参考，不仅限于以下几点）：
 
 - 痛点场景：用户每次都要重复同一套说明。
 - 认知错位：大家以为 Prompt 解决了一切，但问题第二天又回来了。

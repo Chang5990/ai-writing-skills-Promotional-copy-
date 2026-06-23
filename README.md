@@ -21,3 +21,4 @@ This repository stores reusable AI Agent skills.
 - 区分已实现功能和应用设想
 - 文章简洁、有逻辑、生动
 - 按顺序读取skill.md,adding.md,adding2.md,adding3.md,adding4.md,sample.md如内容有冲突则询问用户，不要擅自生成
+  

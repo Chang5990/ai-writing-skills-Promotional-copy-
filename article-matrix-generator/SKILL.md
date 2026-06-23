@@ -179,7 +179,7 @@ description: Use this skill when the user wants to generate a Chinese article ma
 
 如果开头用了一个具体问题、场景或比喻，结尾要尽量回到它，让文章有完整感。
 
-例如：
+例如（以此为例，要多变，不要总是用同一个例子）：
 
 ```text
 开头提出“每次都像第一天上班”的问题，结尾回到“让经验留下来，而不是让用户每次重讲一遍”。

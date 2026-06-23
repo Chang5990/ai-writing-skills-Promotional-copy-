@@ -172,7 +172,7 @@ description: Use this skill when the user wants to generate a Chinese article ma
 在我看来……
 一句话说：
 ```
-
+不要分很细的一、二、三、
 避免强烈个人口癖、粗俗表达、过度情绪化标点、连续的一句话成段。段落通常保持 2-5 句，只有关键观点才偶尔单独成段。
 
 ### 6. 做好前后呼应

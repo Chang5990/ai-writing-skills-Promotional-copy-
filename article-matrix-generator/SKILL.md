@@ -239,7 +239,7 @@ description: Use this skill when the user wants to generate a Chinese article ma
 主文章：
 引流文章A：
 引流文章B:
-要求文章全部已markdown格式输出，不要生硬的段落标题
+要求文章全部以markdown格式输出，不要生硬的段落标题
 例如：（二、文章 1：主页面文章
 标题
 一个适老化 AI 陪伴 App Demo：不是把按钮放大，而是让老人更容易开口

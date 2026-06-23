@@ -22,7 +22,7 @@ description: Use this skill when the user wants to generate a Chinese article ma
 1. 1 篇主页面文章，负责完整讲清楚项目。
 2. 2 篇引流文章，分别从不同痛点、场景或技术问题切入，再自然导向主文章、GitHub、文档或产品页。
 3. 一组插图规划与生成结果，用流程图、层级图、模块图或对比图辅助说明文章内容。
-4. 在主页文章写作时只参考 `SKILL.md` 的主文章规则和用户提供资料，不参考 `article-matrix-generator` 目录下的补充风格 md 文件；写引流文章时才参考该目录下全部 md 文件，包括但不限于 `adding.md`、`adding2.md`、`adding3.md`、`adding4.md`。
+4. 文件夹中所有的md文件都要参考，在主页文章写作时只参考 `SKILL.md` 的主文章规则和用户提供资料，不参考 `article-matrix-generator` 目录下的补充风格 md 文件；写引流文章时才参考该目录下全部 md 文件，包括但不限于 `adding.md`、`adding2.md`、`adding3.md`、`adding4.md`。
 如果用户没有说明发布平台，必须先询问：
 
 ```text

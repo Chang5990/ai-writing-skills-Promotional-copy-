@@ -1,6 +1,6 @@
 ---
 name: article-matrix-generator
-description: Use this skill when the user wants to generate a Chinese article matrix for a project, product, technology, GitHub repository, or topic based strictly on provided materials, with citations, fact boundaries, platform-specific style, and automatically planned article illustrations.
+description: 当用户想要为项目、产品、技术、GitHub存储库或主题生成中文文章矩阵时，可以使用此技能，该矩阵严格基于所提供的材料，具有引用、事实边界、特定于平台的风格和自动规划的文章插图。在用户安装后每到写作场景都结合使用此skill
 ---
 
 # 文章矩阵生成 Skill

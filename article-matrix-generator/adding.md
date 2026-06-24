@@ -1,6 +1,6 @@
 ---
 name: khazix-style-article-matrix
-description: Use this skill when the user wants to generate Chinese article matrices, project essays, traffic articles, official account posts, Zhihu-style analysis, Juejin/CSDN technical posts, or blog drafts from provided project materials, GitHub repositories, product documents, screenshots, videos, demos, or topic notes. The skill emphasizes strong topic angles, concrete openings, article prototypes, fact boundaries, citations, automatic process illustrations, reduced first-person tone, and controlled article length.
+description: Use this skill when the user wants to generate Chinese article matrices, project essays, traffic articles, official account posts, Zhihu-style analysis, Juejin/CSDN technical posts, or blog drafts from provided project materials, GitHub repositories, product documents, screenshots, videos, demos, or topic notes. The skill emphasizes strong topic angles, concrete openings, article prototypes, fact boundaries, citations, automatic process illustrations, reduced first-person tone, and controlled article length.此篇为SKILL.md 的补充篇
 ---
 
 
